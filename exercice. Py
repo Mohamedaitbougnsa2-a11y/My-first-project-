@@ -1,0 +1,7 @@
+name = "Mohamed"
+country = "Morocco"
+field = "Artificial Intelligence"
+
+print(name)
+print(country)
+print(field)
